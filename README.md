@@ -8,5 +8,5 @@
 
 ## Currency Project
 
-https://github.com/user-attachments/assets/6461dd45-3121-457b-b435-e0d51ae68f49
+https://github.com/user-attachments/assets/a3b8b7ce-1f46-4863-aa50-782427b7baea
 
